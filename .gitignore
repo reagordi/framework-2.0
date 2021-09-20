@@ -1,0 +1,32 @@
+# IDE & System Related Files #
+.buildpath
+.settings
+.idea
+.vscode
+*.sublime-project
+*.sublime-workspace
+nbproject
+*.iml
+
+# Test Related Files #
+/phpunit.xml
+
+# Node modules #
+node_modules/
+.env
+
+# phpDocumentor Logs #
+phpdoc-*
+
+# OSX #
+._*
+.DS_Store
+.Spotlight-V100
+.Trashes
+
+# Windows #
+Thumbs.db
+Desktop.ini
+
+# Composer #
+composer.lock
